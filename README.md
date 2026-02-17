@@ -17,7 +17,7 @@
 ## Teknik Yetkinlikler
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,c,cs,git,mysql,docker,linux,flask" />
+    <img src="https://skillicons.dev/icons?i=py,c,cs,git,mysql,docker,linux,flask,go,html,css" />
   </a>
 </p>
 
@@ -26,8 +26,8 @@
 
 
 ## Bana Ulaşın
-<p align="left">
-<a href="https://linkedin.com/in/[LINKEDIN_ADRESIN]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<p align="center">
+<a href="https://www.linkedin.com/in/emrah-tusun/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
