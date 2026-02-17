@@ -7,7 +7,7 @@
 ---
 
 ## 🐍 GitHub Contribution Snake
-![snake gif](https://github.com/[EmrahTusun]/[EmrahTusun]/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/[EmrahTusun]/[Emrah-tusun]/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
@@ -25,7 +25,6 @@
 ## Bana Ulaşın
 <p align="left">
 <a href="https://linkedin.com/in/[LINKEDIN_ADRESIN]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="mailto:[E-POSTA_ADRESIN]"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="30" width="40" /></a>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
